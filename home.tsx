@@ -4,6 +4,8 @@ const home = () => {
   return (
     <div>
       123
+
+      <h1>Hello World</h1>
     </div>
   )
 }
